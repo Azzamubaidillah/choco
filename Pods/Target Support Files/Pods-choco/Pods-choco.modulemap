@@ -1,0 +1,6 @@
+framework module Pods_choco {
+  umbrella header "Pods-choco-umbrella.h"
+
+  export *
+  module * { export * }
+}
