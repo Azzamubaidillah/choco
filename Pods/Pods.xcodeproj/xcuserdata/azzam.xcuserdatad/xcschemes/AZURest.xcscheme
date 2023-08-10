@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4DB621DCD3F740D6B4DB227ED5F983AA"
-               BuildableName = "SwiftyLabAzzam.framework"
-               BlueprintName = "SwiftyLabAzzam"
+               BlueprintIdentifier = "F4840E96C6FAD3CB5D943AA9BA5DD2B1"
+               BuildableName = "AZURest"
+               BlueprintName = "AZURest"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>

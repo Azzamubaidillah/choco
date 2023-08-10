@@ -1,6 +1,0 @@
-framework module SwiftyLabAzzam {
-  umbrella header "SwiftyLabAzzam-umbrella.h"
-
-  export *
-  module * { export * }
-}

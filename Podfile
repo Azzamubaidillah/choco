@@ -7,6 +7,6 @@ target 'choco' do
 
   # Pods for choco
   pod 'Moya'
-  pod 'SwiftyLabAzzam', :git => 'https://github.com/Azzamubaidillah/SwiftyLabAzzam.git', :tag => '0.0.4'
+  pod 'AZURest', :git => 'https://github.com/Azzamubaidillah/AZURest.git', :tag => '0.0.1'
 
 end

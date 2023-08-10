@@ -1,14 +1,14 @@
 PODS:
   - Alamofire (5.7.1)
+  - AZURest (0.0.1)
   - Moya (15.0.0):
     - Moya/Core (= 15.0.0)
   - Moya/Core (15.0.0):
     - Alamofire (~> 5.0)
-  - SwiftyLabAzzam (0.0.4)
 
 DEPENDENCIES:
+  - AZURest (from `https://github.com/Azzamubaidillah/AZURest.git`, tag `0.0.1`)
   - Moya
-  - SwiftyLabAzzam (from `https://github.com/Azzamubaidillah/SwiftyLabAzzam.git`, tag `0.0.4`)
 
 SPEC REPOS:
   trunk:
@@ -16,20 +16,20 @@ SPEC REPOS:
     - Moya
 
 EXTERNAL SOURCES:
-  SwiftyLabAzzam:
-    :git: https://github.com/Azzamubaidillah/SwiftyLabAzzam.git
-    :tag: 0.0.4
+  AZURest:
+    :git: https://github.com/Azzamubaidillah/AZURest.git
+    :tag: 0.0.1
 
 CHECKOUT OPTIONS:
-  SwiftyLabAzzam:
-    :git: https://github.com/Azzamubaidillah/SwiftyLabAzzam.git
-    :tag: 0.0.4
+  AZURest:
+    :git: https://github.com/Azzamubaidillah/AZURest.git
+    :tag: 0.0.1
 
 SPEC CHECKSUMS:
   Alamofire: 0123a34370cb170936ae79a8df46cc62b2edeb88
+  AZURest: 910408220a13e4ecb5d40ab3358eba0fabee26a4
   Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
-  SwiftyLabAzzam: 179ce681655ce4315d5676c392dccfc662bc87c4
 
-PODFILE CHECKSUM: a164ea29a5b148a881fe8af706a36949281a9876
+PODFILE CHECKSUM: 4873dba82daa50cd14307d0f0ba1bb778f426298
 
 COCOAPODS: 1.12.1

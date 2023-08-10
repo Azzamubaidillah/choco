@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		811CAD7B0C144FDFAFB64C57 /* Pods_choco.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DD26A48E775EC183F6DB6B1F /* Pods_choco.framework */; };
-		871430A82A849719007C1023 /* SwiftyLab.swift in Sources */ = {isa = PBXBuildFile; fileRef = 871430A72A849719007C1023 /* SwiftyLab.swift */; };
+		87485B8B2A84B99300C416B1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87485B8A2A84B99300C416B1 /* ViewController.swift */; };
 		875F70892A83358E00CC0C95 /* chocoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 875F70882A83358E00CC0C95 /* chocoApp.swift */; };
 		875F708B2A83358E00CC0C95 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 875F708A2A83358E00CC0C95 /* ContentView.swift */; };
 		875F708D2A83359100CC0C95 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 875F708C2A83359100CC0C95 /* Assets.xcassets */; };
@@ -17,7 +17,7 @@
 
 /* Begin PBXFileReference section */
 		12349AA91E48F5A465C1E750 /* Pods-choco.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-choco.release.xcconfig"; path = "Target Support Files/Pods-choco/Pods-choco.release.xcconfig"; sourceTree = "<group>"; };
-		871430A72A849719007C1023 /* SwiftyLab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftyLab.swift; sourceTree = "<group>"; };
+		87485B8A2A84B99300C416B1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		875F70852A83358E00CC0C95 /* choco.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = choco.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		875F70882A83358E00CC0C95 /* chocoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = chocoApp.swift; sourceTree = "<group>"; };
 		875F708A2A83358E00CC0C95 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -72,7 +72,7 @@
 				875F708A2A83358E00CC0C95 /* ContentView.swift */,
 				875F708C2A83359100CC0C95 /* Assets.xcassets */,
 				875F708E2A83359100CC0C95 /* Preview Content */,
-				871430A72A849719007C1023 /* SwiftyLab.swift */,
+				87485B8A2A84B99300C416B1 /* ViewController.swift */,
 			);
 			path = choco;
 			sourceTree = "<group>";
@@ -208,9 +208,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				87485B8B2A84B99300C416B1 /* ViewController.swift in Sources */,
 				875F708B2A83358E00CC0C95 /* ContentView.swift in Sources */,
 				875F70892A83358E00CC0C95 /* chocoApp.swift in Sources */,
-				871430A82A849719007C1023 /* SwiftyLab.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
